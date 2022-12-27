@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tugas_Akhir_UAS.iml" filepath="$PROJECT_DIR$/.idea/modules/Tugas_Akhir_UAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tugas_Akhir_UAS.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tugas_Akhir_UAS.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tugas_Akhir_UAS.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tugas_Akhir_UAS.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tugas_Akhir_UAS.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tugas_Akhir_UAS.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tugas_Akhir_UAS.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tugas_Akhir_UAS.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

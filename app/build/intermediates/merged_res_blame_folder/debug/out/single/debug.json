@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable-v24_profile.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable-v24\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\font_nunito.ttf.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\font\\nunito.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable_bg_menu.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable\\bg_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable_ic_baseline_keyboard_arrow_right_24.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable\\ic_baseline_keyboard_arrow_right_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable-v24_lingkaran.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable-v24\\lingkaran.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\mipmap-xhdpi_ic_launcher_new.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\mipmap-xhdpi\\ic_launcher_new.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable-mdpi_ic_action_addphoto.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable-mdpi\\ic_action_addphoto.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable-v24_ic_show_pwd.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable-v24\\ic_show_pwd.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable_corner_buttonregister.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable\\corner_buttonregister.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\mipmap-xhdpi_ic_launcher_new_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\mipmap-xhdpi\\ic_launcher_new_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\mipmap-mdpi_ic_launcher_new_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\mipmap-mdpi\\ic_launcher_new_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\layout_activity_splashscreen.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable-v24_undangan.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable-v24\\undangan.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_new.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_new.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\mipmap-hdpi_ic_launcher_new_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\mipmap-hdpi\\ic_launcher_new_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\layout_activity_login_page.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\layout\\activity_login_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable_bg_button_1.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable\\bg_button_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable-v24_signout.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable-v24\\signout.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\mipmap-hdpi_ic_launcher_new.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\mipmap-hdpi\\ic_launcher_new.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_new_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_new_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable_edit_text_bg.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable\\edit_text_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher_new_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\mipmap-xxhdpi\\ic_launcher_new_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\anim_slide_out_top.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\anim\\slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable-v24_arrow.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable-v24\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher_new_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_new_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable_bg_button.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable\\bg_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable-hdpi_ic_action_addphoto.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable-hdpi\\ic_action_addphoto.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\mipmap-mdpi_ic_launcher_new.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\mipmap-mdpi\\ic_launcher_new.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher_new.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable_corner_buttonlogin.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable\\corner_buttonlogin.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable_container.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable\\container.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_new_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_new_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable-v24_home.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable-v24\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable_bg_time.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable\\bg_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\layout_activity_undangan_page.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\layout\\activity_undangan_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\mipmap-mdpi_ic_launcher_new_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\mipmap-mdpi\\ic_launcher_new_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable-xxhdpi_ic_action_addphoto.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable-xxhdpi\\ic_action_addphoto.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable_detailcontainer.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable\\detailcontainer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable_ic_launcher_new_background.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable\\ic_launcher_new_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\mipmap-xhdpi_ic_launcher_new_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\mipmap-xhdpi\\ic_launcher_new_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-pngs-32:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\layout_activity_register_page.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\layout\\activity_register_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\font_inter.ttf.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\font\\inter.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\font_pacifico.ttf.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\font\\pacifico.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\anim_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable-anydpi_ic_action_addphoto.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable-anydpi\\ic_action_addphoto.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\layout_recycle_view.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\layout\\recycle_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable-v24_ic_hide_pwd.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable-v24\\ic_hide_pwd.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable-v24_logo_login.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable-v24\\logo_login.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\layout_activity_tambah_page.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\layout\\activity_tambah_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable_ic_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\layout_activity_edit_undangan.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\layout\\activity_edit_undangan.xml"
+    },
+    {
+        "merged": "com.example.tugasakhiruas.app-merged_res-37:/layout_activity_login_page.xml.flat",
+        "source": "com.example.tugasakhiruas.app-main-39:/layout/activity_login_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher_new_foreground.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\mipmap-xxhdpi\\ic_launcher_new_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\layout_activity_lupa_password.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\layout\\activity_lupa_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher_new.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\mipmap-xxhdpi\\ic_launcher_new.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\anim_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable-v24_landing.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable-v24\\landing.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\anim_slide_in_top.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\anim\\slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable-xhdpi_ic_action_addphoto.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable-xhdpi\\ic_action_addphoto.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable-v24_lingkaranpink.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable-v24\\lingkaranpink.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\layout_activity_daftar_undangan_page.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\layout\\activity_daftar_undangan_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\layout_activity_landing_page.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\layout\\activity_landing_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\mipmap-hdpi_ic_launcher_new_round.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\mipmap-hdpi\\ic_launcher_new_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\drawable-v24_livestreaming.png.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\drawable-v24\\livestreaming.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-merged_res-37:\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\ASUS\\.gradle\\daemon\\7.3.3\\com.example.tugasakhiruas.app-main-39:\\anim\\slide_out_right.xml"
+    }
+]

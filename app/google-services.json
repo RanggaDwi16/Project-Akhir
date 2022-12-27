@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005004996157",
+    "project_id": "viding-71810",
+    "storage_bucket": "viding-71810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005004996157:android:bb1aed45dde970c3bcb454",
+        "android_client_info": {
+          "package_name": "com.example.tugasakhiruas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005004996157-qbbldv7cdu8571lfuieddqdieibaj78t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEtVXj8WyxebrTIm_FBqEI5bgxMuOEdvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005004996157-qbbldv7cdu8571lfuieddqdieibaj78t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
